@@ -1,1 +1,19 @@
 
+{
+  "name": "Tour La Africa",
+  "short_name": "TourLaAfrica",
+  "lang": "en-US",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "theme_color": "#704c18",
+  "background_color": "#704c18",
+  "gcm_sender_id": "115209089220356357996",
+"gcm_user_visible_only":"true",
+  "icons": [
+    {
+      "src": "/TLA-logo.png",
+      "sizes": "128x128"
+    }
+
+  ]
+}
